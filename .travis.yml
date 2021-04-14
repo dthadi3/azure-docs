@@ -1,0 +1,5 @@
+arch:
+  - amd64
+  - ppc64le
+language: powershell
+os: linux
